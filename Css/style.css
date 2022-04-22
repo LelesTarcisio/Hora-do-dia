@@ -1,0 +1,44 @@
+body{
+    background-color: hsl(209, 76%, 56%);
+    font: normal 15pt arial;
+    font-family: century gothic;
+}
+
+header{
+
+    color: white;
+    text-align: center;
+
+}
+
+div{
+    text-align: center;
+    padding: 20px;
+}
+
+#foto{
+max-width: 500px;
+padding: 20px;
+width: 300px;
+
+
+}
+
+section{
+
+    background-color: white;
+    border-radius: 14px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.678);
+
+}
+
+footer{
+    padding-top: 300px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+
+}
